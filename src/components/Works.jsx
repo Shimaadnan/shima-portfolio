@@ -31,7 +31,7 @@ Full Stack Application
                 </div>
                 </div>
             </div>
-            <div style={{backgroundImage:`url(${collective})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage:`url(${hotel})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
                 <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font bold text-white tracking-wider ">
 Full Stack Application
@@ -46,7 +46,7 @@ Full Stack Application
                 </div>
                 </div>
             </div>
-            <div style={{backgroundImage:`url(${collective})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage:`url(${hotel})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
                 <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font bold text-white tracking-wider ">
 Full Stack Application
