@@ -1,7 +1,7 @@
 import React from 'react'
 import collective from '../assets/collective.jpeg'
 import hotel from '../assets/hotel.jpeg'
-
+import computer from '../assets/computer.jpeg'
 export default function Works() {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
@@ -46,7 +46,7 @@ Full Stack Application
                 </div>
                 </div>
             </div>
-            <div style={{backgroundImage:`url(${hotel})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
+            <div style={{backgroundImage:`url(${computer})`}} className='shadow-lg shadow-[#040c19] group container flex justify-center items-center mx-auto content-div'>
                 <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font bold text-white tracking-wider ">
 Full Stack Application
