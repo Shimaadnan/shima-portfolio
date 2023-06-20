@@ -22,10 +22,10 @@ export default function Works() {
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='/'>
+                    <a href='https://www.loom.com/share/15ea44f1ccca4ffdad3f8611ade6c0e7'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='/'>
+                    <a href='https://github.com/khmdagal/The-Collective-Foundation'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
@@ -37,10 +37,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='/'>
+                    <a href='https://cyf-shimaadnan-hotel-react.netlify.app/'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='/'>
+                    <a href='https://github.com/Shimaadnan/cyf-hotel-react'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
