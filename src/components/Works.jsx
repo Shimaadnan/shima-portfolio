@@ -1,7 +1,7 @@
 import React from 'react'
-import collective from '../assets/collective.jpeg'
-import hotel from '../assets/hotel.jpeg'
-import computer from '../assets/computer.jpeg'
+import collective from '../assets/images/collective.jpeg'
+import hotel from '../assets/images/hotel.jpeg'
+import computer from '../assets/images/computer.jpeg'
 export default function Works() {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
@@ -52,10 +52,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='/'>
+                    <a href='http://shima-portfolio.vercel.app'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='/'>
+                    <a href='https://github.com/Shimaadnan/shima-portfolio'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>

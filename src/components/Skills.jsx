@@ -1,10 +1,10 @@
 import React from 'react'
-import CSS from '../assets/css.png'
-import HTML from '../assets/html.png'
-import JavaScript from '../assets/javascript.png'
-import REACT from '../assets/react.png'
-import Node from '../assets/node.png'
-import Sql from '../assets/sql.png'
+import CSS from '../assets/images/css.png'
+import HTML from '../assets/images/html.png'
+import JavaScript from '../assets/images/javascript.png'
+import REACT from '../assets/images/react.png'
+import Node from '../assets/images/node.png'
+import Sql from '../assets/images/sql.png'
 export default function Skills() {
   return (
     <div name='skills' className='w-full h-sreen bg-[#0a192f] text-gray-300'>
