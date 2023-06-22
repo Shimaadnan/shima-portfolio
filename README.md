@@ -1,3 +1,4 @@
+![](src/assets/images/portfolio.png)
 Tech Stack
 HTML, CSS, JavaScript, Raect.js, Tailwind CSS
 
