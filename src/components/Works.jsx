@@ -22,7 +22,7 @@ export default function Works() {
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://www.loom.com/share/15ea44f1ccca4ffdad3f8611ade6c0e7'>
+                    <a href='https://starter-kit-fhvk.onrender.com'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
                     <a href='https://github.com/khmdagal/The-Collective-Foundation'>
@@ -52,10 +52,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='http://shima-portfolio.vercel.app'>
+                    <a href='https://github.com/Shimaadnan/deployed-todo-app'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='https://github.com/Shimaadnan/shima-portfolio'>
+                    <a href='https://github.com/Shimaadnan/deployed-todo-app'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
