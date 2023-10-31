@@ -22,10 +22,10 @@ export default function Works() {
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://starter-kit-fhvk.onrender.com'>
+                    <a href='https://starter-kit-fhvk.onrender.com'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='https://github.com/khmdagal/The-Collective-Foundation'>
+                    <a href='https://github.com/khmdagal/The-Collective-Foundation'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
@@ -37,10 +37,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://cyf-shimaadnan-hotel-react.netlify.app/'>
+                    <a href='https://cyf-shimaadnan-hotel-react.netlify.app/'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='https://github.com/Shimaadnan/cyf-hotel-react'>
+                    <a href='https://github.com/Shimaadnan/cyf-hotel-react'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
@@ -52,10 +52,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://github.com/Shimaadnan/deployed-todo-app'>
+                    <a href='https://github.com/Shimaadnan/deployed-todo-app'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='https://github.com/Shimaadnan/deployed-todo-app'>
+                    <a href='https://github.com/Shimaadnan/deployed-todo-app' target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
