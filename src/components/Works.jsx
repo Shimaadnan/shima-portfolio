@@ -37,10 +37,10 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://cyf-shimaadnan-hotel-react.netlify.app/'target='_blank'>
+                    <a href='https://sea-lion-app-ohpep.ondigitalocean.app/'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
-                    <a href='https://github.com/Shimaadnan/cyf-hotel-react'target='_blank'>
+                    <a href='https://github.com/Shimaadnan/nextjs-openai-starter'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'> Code</button>
                     </a>
                 </div>
@@ -52,7 +52,7 @@ Full Stack Application
 Full Stack Application
                 </span>
                 <div className='pt-8 text-center'>
-                    <a href='https://deployedtodoapp-client.onrender.com/'target='_blank'>
+                    <a href='https://deployed-todo-app-9ofd.vercel.app/'target='_blank'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Demo </button>
                     </a>
                     <a href='https://github.com/Shimaadnan/deployed-todo-app' target='_blank'>
